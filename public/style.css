@@ -1,0 +1,18 @@
+pre {
+  display: inline;
+}
+footer::before {
+  width: 98vw;
+}
+footer {
+  text-align: center;
+  padding: 6rem 0;
+}
+.low p {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+#install_success > * {
+  background-color: lightgreen;
+}

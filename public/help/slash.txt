@@ -1,0 +1,15 @@
+Splits your words into characters.
+/wordsplitter <sentence>
+
+Examples:
+/wordsplitter LETS GET TO THE GYM FAST
+=> L E T S   G E T   T O   T H E   G Y M   F A S T
+
+/wordsplitter COME, HELP ME!
+=> C O M E   H E L P   M E !
+
+/wordsplitter NO MORE LEAVES!
+=> N O   M O R E   L E A V E S !
+
+Support:
+wolfram77@gmail.com
